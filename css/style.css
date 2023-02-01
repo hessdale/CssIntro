@@ -1,0 +1,31 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24;
+}
+
+h2 {
+    font-style:italic;
+}
+
+body {
+    background-color: beige;
+}
+
+#bold_greeting {
+    font-weight: bolder;
+}
+
+#warning {
+    color: red;
+}
+#dissapear {
+    color: beige
+}
+
+.black_text {
+    color: black;
+}
+
+.italics {
+    font-style: italic;
+}
